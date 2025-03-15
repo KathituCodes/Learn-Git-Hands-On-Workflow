@@ -1,7 +1,5 @@
 # Learn-Git-Hands-On-Workflow
 
-# Learn Git: Hands-On Workflow
-
 ## 🚀 Project Overview
 This project is designed to help you **practice and reinforce your Git workflow skills** by running through a series of essential Git commands. By following the instructions, you'll gain hands-on experience with initializing repositories, staging and committing files, managing commits, and configuring Git settings.
 
